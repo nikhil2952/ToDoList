@@ -1,0 +1,49 @@
+body {
+    background-color:#8758ff;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .container {
+    width: 360px;
+    padding: 33px;
+    text-align: center;
+    background-color: #070707;
+    color: #faf9fd;
+    margin: 5px auto;
+  }
+  
+  input {
+    width: 270px;
+    padding: 8px;
+    border: 2px solid #8758ff;
+    outline: none;
+    font-size: 20px;
+  }
+  
+  button {
+    width: 60px;
+    height: 41px;
+    background-color: #8758ff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    border-radius: 2px;
+    font-size: 20px;
+  }
+  
+  .text ul {
+    position: relative;
+    background-color: #8758ff;
+    color: #faf9fd;
+    font-size: 20px;
+    padding: 7px;
+    text-align: left;
+  }
+  
+  .text ul i {
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+  }
+  
